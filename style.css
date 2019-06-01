@@ -1,0 +1,40 @@
+#wrapper{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#clock-options{
+    list-style: none;
+}
+.option{
+    display: inline-block;
+    margin: 0 20px 20px 0;
+}
+.container{
+    width: 200px;
+    height: 150px;
+}
+.date-part{
+    padding: 10px;
+    background-color: lightgrey;
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+.clock-time{
+    padding: 5px;
+    background-color: lightgrey;
+}
+.clock-colon{
+    margin: 0 10px;
+}
+#bg-color1{
+    background-color: #2b7b1e;
+}
+#bg-color2{
+    background-color: #1f8ac6;
+}
+#bg-color3{
+    background-color: #7a68db;
+}
+#bg-color4{
+    background-color: #b54b00;
+}
